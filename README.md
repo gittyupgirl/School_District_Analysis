@@ -2,7 +2,7 @@
 
 ## Background and Purpose
 
-It has been discovered by the school board that there has been a case of academic dishonesty, specifically, reading and math grades for Thomas High School ninth graders appear to have been altered. The purpose of this analysis is to re-calculate the math and reading scores with the ninth scores at Thomas High School removed from the analysis. Then, these new figures will be used to generate an updated school district analysis in order to drive budgeting and set priorities for the schools within the district.
+Upon the suspicion of academic dishonesty, the school board has requested that math and reading scores for ninth grade Thomas High School be removed from our current analysis.  I have re-calculated the analysis per this request. These new figures may be used to generate an updated school district analysis in order to drive budgeting and set priorities for the schools within the district, until the Thomas High School issue is resolved.
 
 ## Results
 
